@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.ArrayReverse", "001.ArrayReverse\001.ArrayReverse.csproj", "{624A56E2-F8CB-49E1-9889-4DCC5885B706}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.SymetricArrays", "002.SymetricArrays\002.SymetricArrays.csproj", "{17138897-108C-4FAE-B27A-30A91C424A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003.ReadMatrix", "003.ReadMatrix\003.ReadMatrix.csproj", "{40C43F87-48CC-4E55-A1EF-E1190D66A1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004.MaxPlatform", "004.MaxPlatform\004.MaxPlatform.csproj", "{63560814-0767-4A12-94EE-19A34F83C4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005.PascalTriangle", "005.PascalTriangle\005.PascalTriangle.csproj", "{2278B969-D72A-458C-8609-CD3750BD2040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006.InitArray", "006.InitArray\006.InitArray.csproj", "{F90E7263-CBBF-479F-A0DB-A2A02A275BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.EqualArrays", "007.EqualArrays\007.EqualArrays.csproj", "{A745B26D-F3FF-461E-AF0C-018969C2264E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624A56E2-F8CB-49E1-9889-4DCC5885B706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624A56E2-F8CB-49E1-9889-4DCC5885B706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624A56E2-F8CB-49E1-9889-4DCC5885B706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624A56E2-F8CB-49E1-9889-4DCC5885B706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17138897-108C-4FAE-B27A-30A91C424A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17138897-108C-4FAE-B27A-30A91C424A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17138897-108C-4FAE-B27A-30A91C424A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17138897-108C-4FAE-B27A-30A91C424A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C43F87-48CC-4E55-A1EF-E1190D66A1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C43F87-48CC-4E55-A1EF-E1190D66A1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C43F87-48CC-4E55-A1EF-E1190D66A1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C43F87-48CC-4E55-A1EF-E1190D66A1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63560814-0767-4A12-94EE-19A34F83C4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63560814-0767-4A12-94EE-19A34F83C4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63560814-0767-4A12-94EE-19A34F83C4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63560814-0767-4A12-94EE-19A34F83C4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2278B969-D72A-458C-8609-CD3750BD2040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2278B969-D72A-458C-8609-CD3750BD2040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2278B969-D72A-458C-8609-CD3750BD2040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2278B969-D72A-458C-8609-CD3750BD2040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90E7263-CBBF-479F-A0DB-A2A02A275BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E7263-CBBF-479F-A0DB-A2A02A275BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E7263-CBBF-479F-A0DB-A2A02A275BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E7263-CBBF-479F-A0DB-A2A02A275BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A745B26D-F3FF-461E-AF0C-018969C2264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A745B26D-F3FF-461E-AF0C-018969C2264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A745B26D-F3FF-461E-AF0C-018969C2264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A745B26D-F3FF-461E-AF0C-018969C2264E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6938AD6E-9C16-47D9-9232-E023F06BB81B}
+	EndGlobalSection
+EndGlobal
