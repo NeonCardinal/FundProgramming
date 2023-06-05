@@ -18,6 +18,13 @@ namespace Library
         public int Year { get => year; set => year = value; }
         public string IsbnNumber { get => isbnNumber; set => isbnNumber = value; }
 
-
+        public Book(string title, string author, string izdatelstvo, int year, string number)
+        {
+            this.title = title;
+            this.author = author;
+            this.izdatelstvo = izdatelstvo;
+            this.year = year;
+            this.isbnNumber = number;
+        }
     }
 }

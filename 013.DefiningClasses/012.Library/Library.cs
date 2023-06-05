@@ -37,12 +37,21 @@ namespace Library
 
             return result;
         }
+
+        public void PrintBooksInfo()
+        {
+            foreach (Book book in this.books)
+            {
+                PrintInfoBook(book);
+            }
+        }
         
         public void PrintInfoBook(Book book)
         {
             Console.WriteLine(book.Title);
             Console.WriteLine(book.Author);
             Console.WriteLine(book.Year);
+            Console.WriteLine(book.Izdatelstvo);
             Console.WriteLine(book.IsbnNumber);
         }
 
